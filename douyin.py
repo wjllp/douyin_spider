@@ -18,4 +18,4 @@ def download(userid,count):
     f.close()
 
 if __name__ == '__main__':
-    download(88409121422,31)
+    download(94069666459,5)
